@@ -16,10 +16,7 @@ import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
-/**
- *
- * @author Durgesh
- */
+
 
 @MultipartConfig
 public class RegisterServlet extends HttpServlet {
